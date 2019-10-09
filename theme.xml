@@ -47,15 +47,15 @@ was the greatest teacher.
 			<path>./_inc/images/bg_color.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
-			<size>1 0.375</size>
+			<size>1 0.39</size>
 			<color>00000066</color>
 		</image>
 
 		<image name="background_bottom1" extra="true">
 			<path>./_inc/images/bg_color.png</path>
 			<origin>0 0</origin>
-			<pos>0 0.615</pos>
-			<size>1 0.385</size>
+			<pos>0 0.61</pos>
+			<size>1 0.39</size>
 			<color>00000066</color>
 		</image>
 
@@ -99,7 +99,7 @@ was the greatest teacher.
 			<path>./_inc/images/bg_color.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
-			<size>1 0.17</size>
+			<size>1 0.175</size>
 			<color>00000066</color>
 		</image>
 
@@ -155,7 +155,7 @@ was the greatest teacher.
 			<path>./_inc/images/bg_color.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
-			<size>1 0.17</size>
+			<size>1 0.175</size>
 			<color>00000066</color>
 		</image>
 
@@ -169,7 +169,7 @@ was the greatest teacher.
 			<path>./_inc/images/bg_color.png</path>
 			<origin>0 0</origin>
 			<pos>0 0.76</pos>
-			<size>1 0.24</size>
+			<size>1 0.245</size>
 			<color>00000066</color>
 		</image>
 
